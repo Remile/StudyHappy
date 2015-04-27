@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="src/com/hama/Q20150325/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="src/com/hama/me/jedis-2.1.0.jar"/>
+	<classpathentry kind="lib" path="src/com/hama/redis/jedis-2.1.0.jar"/>
+	<classpathentry kind="lib" path="src/com/hama/redis/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="src/com/hama/redis/mysql-connector-java-5.1.30.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
